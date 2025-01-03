@@ -65,7 +65,7 @@ FixMyReview is open-source AI agent which can categorize and reply to all the re
 
 ---
 ## Screenshots
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://raw.githubusercontent.com/shashank404error/fixMyReview/refs/heads/main/input/screenshot.jpg))
+![App Screenshot](https://raw.githubusercontent.com/shashank404error/fixMyReview/refs/heads/main/input/screenshot.jpg)
 
 ---
 ## Contributing
